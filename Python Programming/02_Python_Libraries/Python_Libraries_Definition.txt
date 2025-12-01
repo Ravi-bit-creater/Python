@@ -1,0 +1,17 @@
+Python Libraries Introduction
+----------------------------------------
+What are library in python ?
+A library in python is a collection of pre-written code (modules, functions and classes) that you can use to perform common tasks without writting everything from scratch
+------------------------------------------
+Why Libraries
+Saves Time - No need to write code for common task
+Proven Solutions - Tested and optimized by experts
+Easy to Use - Just import and use the functions
+----------------------------------------------
+Types of Libraries
+Pandas - Data Analysis
+Numpy - Math/Science
+Matplotlib, seaborn - Data Visualization
+Scikit-learn - Machine Learning Algorithms
+Tensorflow, Keras, Pytorch - Deep Learning
+Flask, Django - Web Development
